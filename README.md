@@ -22,3 +22,5 @@ Update in Claude Code with `/plugin marketplace update stitcombe`.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Exception: `skills/diataxis` is derived from [Diátaxis](https://diataxis.fr) by Daniele Procida and is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
