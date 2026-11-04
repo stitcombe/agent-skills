@@ -1,0 +1,17 @@
+{
+  "name": "stitcombe",
+  "owner": {
+    "name": "Stephen Titcombe"
+  },
+  "metadata": {
+    "description": "Stephen Titcombe's AI agent skills."
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "description": "All agent skills in this repo.",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}
